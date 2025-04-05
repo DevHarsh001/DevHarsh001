@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevHarsh001](https://github.com/DevHarsh001)
 
-- 📫 How to reach me **harshtiwari6060@gmail.com**
+- 📫 How to reach me **mail@devharsh.space**
 
 
 <h3 align="left">Connect with me:</h3>
