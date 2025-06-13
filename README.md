@@ -1,24 +1,42 @@
-<h2 align="center"> Hello, I m Harsh Tiwari</h2>
-<h3 align="center">A Young Developer, I create project for fun :)</h3>
-<div class="div1">
-<img align="top" alt="Background image" src="https://media.discordapp.net/attachments/856559608851333161/1220308116298666046/cad_gif_squiggle_blue.gif?ex=678d733f&is=678c21bf&hm=b26c26adbc33486eddbc1ff4627df328d2ae066eaae52cc14d15c136269c20a6&=" height="25px" width="100%">
+<h1 align="center">Hey, What's Up?</h1>
 
-- 🌱 I’m currently learning **Python, React Js, Node Js**
+###
 
-- 👨‍💻 All of my projects are available at [https://github.com/DevHarsh001](https://github.com/DevHarsh001)
-
-- 📫 How to reach me **mail@devharsh.space**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/harshtiwari_013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshtiwari_013" height="30" width="40" /></a>
-<a href="https://discord.com/users/1024349955843969056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord.png" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
 </div>
-<p><img class="C1" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devharsh001&show_icons=true&locale=en&layout=compact" alt="devharsh001"></p>
 
-<p>&nbsp;<img class="C1" align="right" src="https://github-readme-stats.vercel.app/api?username=devharsh001&show_icons=true&locale=en" alt="devharsh001" height="140px" width="auto"></p>
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mail logo" />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=devharsh001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=devharsh001&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devharsh001/devharsh001/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devharsh001/devharsh001/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devharsh001/devharsh001/output/pacman-contribution-graph.svg">
+</picture>
+
