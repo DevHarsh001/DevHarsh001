@@ -46,8 +46,37 @@
 
 <h2 align="center">💖 Donate to Aura</h2>
 <p align="center">
-  Aura is a free Discord bot that runs on donations. If you like it, support us! 🙏
+   Support the development of our Future Discord Bot "Aura" and get exciting rewards for being an early supporter
 </p>
 <div align="center">
-  <img src="https://i.ibb.co/GfJyQCkZ/aura-qr.png" width="250" height="250" alt="Aura Donation QR" />
+  <img src="https://i.ibb.co/GfJyQCkZ/aura-qr.png" width="250" height="250" alt="Aura Donation QR" style="border-radius:15px; box-shadow: 0px 4px 12px rgba(0,0,0,0.3);" />
+</div>
+
+###
+
+<h2 align="center">🌟 Our Supporters</h2>
+<p align="center">Thanks to everyone who supports Aura! You make this project possible. 🙏</p>
+
+<div align="center">
+  <!-- Sanag -->
+  <a href="https://discord.com/users/1226202962800541760" target="_blank">
+    <img src="https://i.ibb.co/jP2hYSWv/34918184965b01d04d7d8923eb5dabc7.jpg" width="100" height="100" alt="Sanag" style="border-radius:50%;" />
+    <br>
+    <sub><b>Sanag</b></sub>
+    <br>
+    <sub>Support: Financial support</sub>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- VoidKillerYT -->
+  <a href="https://harsh.asia" target="_blank">
+    <img src="https://i.ibb.co/tMqzHrFr/0b44011e47fbcf623c6d6b9c4a44aacd.png" width="100" height="100" alt="VoidKillerYT" style="border-radius:50%;" />
+    <br>
+    <sub><b>VoidKillerYT</b></sub>
+    <br>
+    <sub>Support: Free 1GB RAM Hosting at <a href="https://panel.swiftnodes.in" target="_blank">SwiftNodes</a></sub>
+  </a>
 </div>
