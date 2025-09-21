@@ -167,7 +167,7 @@
       <td width="50"></td>
       <td align="center" width="250">
         <a href="https://harsh.asia" target="_blank">
-          <img src="https://i.ibb.co/tMqzHrFr/0b44011e47fbcf623c6d6b9c4a44aacd.png" width="100" height="100" alt="VoidKillerYT" style="border-radius: 50%; border: 4px solid #10B981; box-shadow: 0 0 20px rgba(16,185,129,0.5);" />
+          <img src="https://cdn.discordapp.com/avatars/1257644175667626078/0b44011e47fbcf623c6d6b9c4a44aacd?size=1024" width="100" height="100" alt="VoidKillerYT" style="border-radius: 50%; border: 4px solid #10B981; box-shadow: 0 0 20px rgba(16,185,129,0.5);" />
           <br><br>
           <h3>VoidKillerYT</h3>
           <img src="https://img.shields.io/badge/Hosting-Provider-10B981?style=for-the-badge&logoColor=white" alt="Hosting Support" />
