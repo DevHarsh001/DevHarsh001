@@ -166,7 +166,7 @@
       </td>
       <td width="50"></td>
       <td align="center" width="250">
-        <a href="https://devharsh.space" target="_blank">
+        <a href="https://harsh.asia" target="_blank">
           <img src="https://i.ibb.co/tMqzHrFr/0b44011e47fbcf623c6d6b9c4a44aacd.png" width="100" height="100" alt="VoidKillerYT" style="border-radius: 50%; border: 4px solid #10B981; box-shadow: 0 0 20px rgba(16,185,129,0.5);" />
           <br><br>
           <h3>⚡ VoidKillerYT</h3>
