@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/🎮_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://harsh.asia" target="_blank">
+  <a href="https://devharsh.space" target="_blank">
     <img src="https://img.shields.io/badge/🌍_Website-00D4AA?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Website" />
   </a>
 </div>
@@ -77,7 +77,7 @@
 
 ---
 
-## 📊 **GitHub Analytics**
+## **GitHub Analytics**
 
 <div align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devharsh001&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=600" alt="Most Used Languages" />
@@ -103,7 +103,7 @@
 
 ---
 
-## 🤖 **Featured Project: Aura Discord Bot**
+## **Featured Project: Aura Discord Bot**
 
 <div align="center">
   <img src="https://img.shields.io/badge/🚧_Status-In%20Development-FFD700?style=for-the-badge&logoColor=white" alt="Status" />
@@ -117,18 +117,18 @@
   <table>
     <tr>
       <td align="center">
-        <h3>🌟 About Aura</h3>
+        <h3>About Aura</h3>
         <p><i>Next-generation Discord bot with cutting-edge features</i></p>
-        <p>🛡️ Advanced Moderation | 🎵 Music System | 🎮 Games & Fun | 🔧 Server Utils</p>
+        <p> Advanced Moderation |  Music System | Games & Fun | Server Utils</p>
       </td>
     </tr>
   </table>
 </div>
 
-### 💰 **Support Development**
+### **Support Development**
 
 <div align="center">
-  <p><b>🚀 Help bring Aura to life! Every contribution matters! 🙏</b></p>
+  <p><b>🚀 Help bring Aura to life! Every contribution matters! </b></p>
   
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid #6366F1;">
     <img src="https://i.ibb.co/GfJyQCkZ/aura-qr.png" width="250" height="250" alt="Aura Donation QR" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.4);" />
@@ -145,10 +145,10 @@
 
 ---
 
-## 🏆 **Hall of Fame - Our Heroes**
+## 🏆 **Hall of Fame - Our Supporters**
 
 <div align="center">
-  <p><b>🎖️ These amazing people make Aura possible! 🎖️</b></p>
+  <p><b>🎖️ These amazing people have infinite Aura 🎖️</b></p>
 </div>
 
 <div align="center">
@@ -188,7 +188,7 @@
 ---
 
 <div align="center">
-  <h2>🎯 Thanks for stopping by! Let's build something epic together! 🚀</h2>
+  <h2>Thanks for stopping by! Let's build something epic together! </h2>
 </div>
 
 <div align="center">
