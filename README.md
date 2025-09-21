@@ -1,7 +1,7 @@
 # <div align="center">Hey there, I'm Harsh!</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Python+%7C+JavaScript+%7C+Node.js+%E2%9A%A1;Building+Digital+Magic+%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+Node.js;Building+Digital+Magic" alt="Typing Animation" />
 </div>
 
 <br>
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## **Tech Arsenal**
 
 <div align="center">
   <table style="border: none;">
@@ -53,19 +53,19 @@
 
 ---
 
-## 🌐 **Connect With Me**
+## **Connect With Me**
 
 <div align="center">
   <a href="https://instagram.com/harshtiwari_013" target="_blank">
-    <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/1024349955843969056" target="_blank">
-    <img src="https://img.shields.io/badge/🎮_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Discord" />
   </a>
   &nbsp;&nbsp;
   <a href="https://devharsh.space" target="_blank">
-    <img src="https://img.shields.io/badge/🌍_Website-00D4AA?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-00D4AA?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Website" />
   </a>
 </div>
 
@@ -77,7 +77,7 @@
 
 ---
 
-## 📊 **GitHub Analytics**
+## **GitHub Analytics**
 
 <div align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devharsh001&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=600" alt="Most Used Languages" />
@@ -103,12 +103,12 @@
 
 ---
 
-## 🤖 **Featured Project: Aura Discord Bot**
+## **Featured Project: Aura Discord Bot**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🚧_Status-In%20Development-FFD700?style=for-the-badge&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/⚡_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Language" />
-  <img src="https://img.shields.io/badge/🎮_Platform-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/Status-In%20Development-FFD700?style=for-the-badge&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Language" />
+  <img src="https://img.shields.io/badge/Platform-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Platform" />
 </div>
 
 <br>
@@ -125,15 +125,15 @@
   </table>
 </div>
 
-### 💰 **Support Development**
+### **Support Development**
 
 <div align="center">
   <p><b>Help bring Aura to life! Every contribution matters!</b></p>
   
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid #6366F1;">
-    <img src="https://i.ibb.co/GfJyQCkZ/aura-qr.png" width="250" height="250" alt="Aura Donation QR" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.4);" />
+    <img src="https://i.ibb.co/GfJyQCkZ/aura-qr.png" width="350" height="350" alt="Aura Donation QR" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.4);" />
     <br><br>
-    <img src="https://img.shields.io/badge/📱_Scan_QR_Code-Donate_Now-00D4AA?style=for-the-badge&logoColor=white" height="45" alt="Donate" />
+    <img src="https://img.shields.io/badge/Scan_QR_Code-Donate_Now-00D4AA?style=for-the-badge&logoColor=white" height="45" alt="Donate" />
   </div>
 </div>
 
@@ -145,7 +145,7 @@
 
 ---
 
-## 🏆 **Hall of Fame - Our Supporters**
+## **Hall of Fame - Our Supporters**
 
 <div align="center">
   <p><b>These amazing people have infinite Aura</b></p>
@@ -158,19 +158,19 @@
         <a href="https://discord.com/users/1226202962800541760" target="_blank">
           <img src="https://i.ibb.co/jP2hYSWv/34918184965b01d04d7d8923eb5dabc7.jpg" width="100" height="100" alt="Sanag" style="border-radius: 50%; border: 4px solid #FFD700; box-shadow: 0 0 20px rgba(255,215,0,0.5);" />
           <br><br>
-          <h3>⭐ Sanag</h3>
-          <img src="https://img.shields.io/badge/💰_Financial-Supporter-FFD700?style=for-the-badge&logoColor=white" alt="Financial Support" />
+          <h3>Sanag</h3>
+          <img src="https://img.shields.io/badge/Financial-Supporter-FFD700?style=for-the-badge&logoColor=white" alt="Financial Support" />
           <br><br>
           <p><i>"Financial supporter!"</i></p>
         </a>
       </td>
       <td width="50"></td>
       <td align="center" width="250">
-        <a href="https://harsh.asia" target="_blank">
+        <a href="https://devharsh.space" target="_blank">
           <img src="https://i.ibb.co/tMqzHrFr/0b44011e47fbcf623c6d6b9c4a44aacd.png" width="100" height="100" alt="VoidKillerYT" style="border-radius: 50%; border: 4px solid #10B981; box-shadow: 0 0 20px rgba(16,185,129,0.5);" />
           <br><br>
-          <h3>⚡ VoidKillerYT</h3>
-          <img src="https://img.shields.io/badge/🖥️_Hosting-Provider-10B981?style=for-the-badge&logoColor=white" alt="Hosting Support" />
+          <h3>VoidKillerYT</h3>
+          <img src="https://img.shields.io/badge/Hosting-Provider-10B981?style=for-the-badge&logoColor=white" alt="Hosting Support" />
           <br><br>
           <p><i>Hosting Provider <a href="https://panel.swiftnodes.in" target="_blank"><b>SwiftNodes</b></a></i></p>
         </a>
@@ -192,8 +192,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devharsh001&style=for-the-badge&color=FF6B6B&label=👀+Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/devharsh001?style=for-the-badge&color=10B981&logo=github&label=🫂+Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=devharsh001&style=for-the-badge&color=FF6B6B&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/devharsh001?style=for-the-badge&color=10B981&logo=github&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/badge/Made_with-Love_and_Coffee-FF69B4?style=for-the-badge" alt="Made with Love and Coffee" />
 </div>
 
