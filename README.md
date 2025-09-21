@@ -1,4 +1,4 @@
-# <div align="center">![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) Hey there, I'm Harsh! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="30" height="30" alt="code" /></div>
+# <div align="center">👋 Hey there, I'm Harsh! 💻</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+Node.js;Building+Amazing+Digital+Experiences" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tech/tech-original.svg" width="25" height="25" alt="tech" /> Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
   <table>
