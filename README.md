@@ -1,4 +1,4 @@
-# <div align="center">🚀 Hey there, I'm Harsh! ⚡</div>
+# <div align="center">Hey there, I'm Harsh!</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Python+%7C+JavaScript+%7C+Node.js+%E2%9A%A1;Building+Digital+Magic+%E2%9C%A8" alt="Typing Animation" />
@@ -77,7 +77,7 @@
 
 ---
 
-## **GitHub Analytics**
+## 📊 **GitHub Analytics**
 
 <div align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devharsh001&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=600" alt="Most Used Languages" />
@@ -103,7 +103,7 @@
 
 ---
 
-## **Featured Project: Aura Discord Bot**
+## 🤖 **Featured Project: Aura Discord Bot**
 
 <div align="center">
   <img src="https://img.shields.io/badge/🚧_Status-In%20Development-FFD700?style=for-the-badge&logoColor=white" alt="Status" />
@@ -119,16 +119,16 @@
       <td align="center">
         <h3>About Aura</h3>
         <p><i>Next-generation Discord bot with cutting-edge features</i></p>
-        <p> Advanced Moderation |  Music System | Games & Fun | Server Utils</p>
+        <p>Advanced Moderation | Music System | Games & Fun | Server Utils</p>
       </td>
     </tr>
   </table>
 </div>
 
-### **Support Development**
+### 💰 **Support Development**
 
 <div align="center">
-  <p><b>🚀 Help bring Aura to life! Every contribution matters! </b></p>
+  <p><b>Help bring Aura to life! Every contribution matters!</b></p>
   
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid #6366F1;">
     <img src="https://i.ibb.co/GfJyQCkZ/aura-qr.png" width="250" height="250" alt="Aura Donation QR" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.4);" />
@@ -148,7 +148,7 @@
 ## 🏆 **Hall of Fame - Our Supporters**
 
 <div align="center">
-  <p><b>🎖️ These amazing people have infinite Aura 🎖️</b></p>
+  <p><b>These amazing people have infinite Aura</b></p>
 </div>
 
 <div align="center">
@@ -158,7 +158,7 @@
         <a href="https://discord.com/users/1226202962800541760" target="_blank">
           <img src="https://i.ibb.co/jP2hYSWv/34918184965b01d04d7d8923eb5dabc7.jpg" width="100" height="100" alt="Sanag" style="border-radius: 50%; border: 4px solid #FFD700; box-shadow: 0 0 20px rgba(255,215,0,0.5);" />
           <br><br>
-          <h3>Sanag</h3>
+          <h3>⭐ Sanag</h3>
           <img src="https://img.shields.io/badge/💰_Financial-Supporter-FFD700?style=for-the-badge&logoColor=white" alt="Financial Support" />
           <br><br>
           <p><i>"Financial supporter!"</i></p>
@@ -166,10 +166,10 @@
       </td>
       <td width="50"></td>
       <td align="center" width="250">
-        <a href="https://harsh.asia" target="_blank">
+        <a href="https://devharsh.space" target="_blank">
           <img src="https://i.ibb.co/tMqzHrFr/0b44011e47fbcf623c6d6b9c4a44aacd.png" width="100" height="100" alt="VoidKillerYT" style="border-radius: 50%; border: 4px solid #10B981; box-shadow: 0 0 20px rgba(16,185,129,0.5);" />
           <br><br>
-          <h3>VoidKillerYT</h3>
+          <h3>⚡ VoidKillerYT</h3>
           <img src="https://img.shields.io/badge/🖥️_Hosting-Provider-10B981?style=for-the-badge&logoColor=white" alt="Hosting Support" />
           <br><br>
           <p><i>Hosting Provider <a href="https://panel.swiftnodes.in" target="_blank"><b>SwiftNodes</b></a></i></p>
@@ -188,17 +188,17 @@
 ---
 
 <div align="center">
-  <h2>Thanks for stopping by! Let's build something epic together! </h2>
+  <h2>Thanks for stopping by! Let's build something epic together!</h2>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devharsh001&style=for-the-badge&color=FF6B6B&label=👀+Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/devharsh001?style=for-the-badge&color=10B981&logo=github&label=🫂+Followers" alt="Followers" />
-  <img src="https://img.shields.io/badge/Made_with-💖_and_☕-FF69B4?style=for-the-badge" alt="Made with Love and Coffee" />
+  <img src="https://img.shields.io/badge/Made_with-Love_and_Coffee-FF69B4?style=for-the-badge" alt="Made with Love and Coffee" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep+Coding!+🚀&fontSize=30&fontAlignY=75&desc=The+best+is+yet+to+come&descAlignY=90&descAlign=center&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep+Coding!&fontSize=30&fontAlignY=75&desc=The+best+is+yet+to+come&descAlignY=90&descAlign=center&animation=twinkling" width="100%" />
 </div>
