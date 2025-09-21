@@ -42,4 +42,12 @@
   <img alt="pacman contribution animation" src="https://profile-readme-generator.com/assets/pacman.svg" />
 </picture>
 
+###
 
+<h2 align="center">💖 Donate to Aura</h2>
+<p align="center">
+  Aura is a free Discord bot that runs on donations. If you like it, support us! 🙏
+</p>
+<div align="center">
+  <img src="https://i.ibb.co/GfJyQCkZ/aura-qr.png" width="250" height="250" alt="Aura Donation QR" />
+</div>
