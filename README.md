@@ -154,7 +154,18 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="250">
+      <td align="center" width="200">
+        <a href="https://discord.com/users/1162754678765912164" target="_blank">
+          <img src="https://cdn.discordapp.com/avatars/1162754678765912164/db065482e6491f77297fe4f755981c9b?size=1024" width="100" height="100" alt="Modak Bhai" style="border-radius: 50%; border: 4px solid #FF6B6B; box-shadow: 0 0 20px rgba(255,107,107,0.5);" />
+          <br><br>
+          <h3>Modak Bhai 🔥🔪☝</h3>
+          <img src="https://img.shields.io/badge/Top-Supporter-FF6B6B?style=for-the-badge&logoColor=white" alt="Top Support" />
+          <br><br>
+          <p><i>"Top supporter!"</i></p>
+        </a>
+      </td>
+      <td width="25"></td>
+      <td align="center" width="200">
         <a href="https://discord.com/users/1226202962800541760" target="_blank">
           <img src="https://i.ibb.co/jP2hYSWv/34918184965b01d04d7d8923eb5dabc7.jpg" width="100" height="100" alt="Sanag" style="border-radius: 50%; border: 4px solid #FFD700; box-shadow: 0 0 20px rgba(255,215,0,0.5);" />
           <br><br>
@@ -164,8 +175,8 @@
           <p><i>"Financial supporter!"</i></p>
         </a>
       </td>
-      <td width="50"></td>
-      <td align="center" width="250">
+      <td width="25"></td>
+      <td align="center" width="200">
         <a href="https://harsh.asia" target="_blank">
           <img src="https://cdn.discordapp.com/avatars/1257644175667626078/0b44011e47fbcf623c6d6b9c4a44aacd?size=1024" width="100" height="100" alt="VoidKillerYT" style="border-radius: 50%; border: 4px solid #10B981; box-shadow: 0 0 20px rgba(16,185,129,0.5);" />
           <br><br>
